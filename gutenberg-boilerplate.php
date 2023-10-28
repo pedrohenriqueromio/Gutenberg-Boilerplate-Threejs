@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name: Gutenberg Boilerplate
- * Plugin URI: https://AhmadAwais.com/
- * Description: An ever growing Gutenberg boilerplate to help developers with extending Gutenberg editor. It's open source and hosted on GitHub. Consider to <a href="https://github.com/ahmadawais/Gutenberg-Boilerplate">🌟 Star it on GitHub</a> | <a href="https://github.com/ahmadawais">🎩 Follow Ahmad's Open Source Projects</a>.
- * Author: mrahmadawais, maedahbatool, WPTie
- * Author URI: https://AhmadAwais.com/
+ * Plugin URI: 
+ * Description: teste 
+ * Author: Pedro henriquye Romio
+ * Author URI: 
  * Version: 1.0.0
  * License: GPL2+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
